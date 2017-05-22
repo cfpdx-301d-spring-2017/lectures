@@ -15,9 +15,13 @@ Week 2     | The Model
 Week 3     | The Controller
 Week 4     | Project Week
 
+## Class Resources
+
+We will have our own GitHub Organization to manage all of our repositories. All lecture notes and information will be found in this repo, under that day's directory. Your daily labs will have their own repo within this organization.
+
 ## Slides from class
 
-Any slides used during class will be sent out via Ryver after class. Lecture outlines and notes will be in each lecture's README.
+Any slides used during class will be sent out via Ryver after class. Lecture outlines and notes will be in each lecture's directory's README.
 
 ## Assignments
 
