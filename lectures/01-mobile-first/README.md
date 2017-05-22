@@ -33,7 +33,9 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| <ul><li> created websites from scratch, based off of a problem domain </li> <li> opened our page from the terminal using `start` or `open`</li> <li> organized our CSS all willy-nilly</li></ul> | <ul><li> work on an existing code base!</li><li> "serve" our page using live-server</li><li> implement MFD and RWD techniques</li><li> organize our CSS using SMACCS</li></ul>
+
+
 
 <hr></hr>
 
@@ -92,10 +94,6 @@
 * Design basics and setting up a simple color palette
   * [Adobe Color CC](https://color.adobe.com/)
     * Other color combination tools are fine to show as well.
-* Demo - What & Why
-    * Understanding how SMACSS breaks down a site’s CSS into categories.
-    * Understanding foundational CSS display types and positioning properties
-    * Creation of modular CSS components by styling the wrapper’s for each article instance (on the front end)
 
 #### Topic 3 - Lab Prep & Git Flow
 * Live-server
