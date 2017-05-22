@@ -17,8 +17,7 @@ Week 4     | Project Week
 
 ## Slides from class
 
-Slides will be placed in each class' lecture-code subdirectory after they are presented.
-Lecture notes will be in each lecture's README.
+Any slides used during class will be sent out via Ryver after class. Lecture outlines and notes will be in each lecture's README.
 
 ## Assignments
 
