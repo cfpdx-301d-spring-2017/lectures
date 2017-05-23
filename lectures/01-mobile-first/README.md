@@ -1,4 +1,4 @@
-## **Week 1: The View**
+<s>## **Week 1: The View**
 # Class 1: Mobile-First Design & SMACSS
 
 [Schedule](#schedule) | [Announcements](#announcements) </br>
@@ -33,9 +33,7 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| <ul><li> created websites from scratch, based off of a problem domain </li> <li> opened our page from the terminal using `start` or `open`</li> <li> organized our CSS all willy-nilly</li></ul> | <ul><li> work on an existing code base!</li><li> "serve" our page using live-server</li><li> implement MFD and RWD techniques</li><li> organize our CSS using SMACCS</li></ul>
-
-
+| <ul><li> Created websites from scratch, based off of a problem domain </li> <li> Opened our page from the terminal using `start` or `open`</li> <li> Organized our CSS all willy-nilly</li></ul> | <ul><li> Work on an existing code base!</li><li> "Serve" our page using live-server</li><li> Implement MFD and RWD techniques</li><li>Organize our CSS using SMACCS</li></ul>
 
 <hr></hr>
 
@@ -118,4 +116,4 @@
 
 ## Lab
 
-[Lab: Mobile First Design](https://github.com/cfpdx-301d-spring-2017/lab-01-mobile-first)
+[Lab: Mobile First Design](https://github.com/cfpdx-301d-spring-2017/lab-01-mobile-first)</s>
