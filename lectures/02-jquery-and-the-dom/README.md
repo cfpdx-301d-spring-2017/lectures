@@ -42,20 +42,20 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
-* Understand why the jQuery library is useful and how to include it (local vs CDN).
-* What is a dependency?
+* Describe the different parts of the MVC design pattern.
+* Include the jQuery library using a CDN or including it locally.
+* Describe the pros and cons of using jQuery.
 * Perform DOM manipulations using `append`, `remove`, `clone`, `data`, `html`, `text`.
 * Traverse the DOM tree, with `parents`, `children`, `find`.
 * Understand the use of event delegation for dynamic element selection.
 * Differentiate between certain methods & the process of chaining.
-* Understand proper `<script>` loading order in HTML.
+* Include JavaScript files accounting for dependencies by loading `<script>` tags in order.
 
 
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| <ul><li>Wrote our scripts with vanilla JavaScript</li><li>Retreived elements from the DOM using the document object's methods</li><li>Maniuplated the DOM using the document object's methods</li></ul> | <ul><li>Write JavaScript with the help of the jQuery library</li><li>Retrieve elements from the DOM using jQuery</li><li>Manipulate the DOM using jQuery</li></ul> |
 
 <hr></hr>
 
@@ -101,4 +101,4 @@
   * (Context: 293-301; Essential: 310-325; Reference: 302-309)
 
 ## Lab
-[Lab: jQuery & DOM]()
+[Lab: jQuery & DOM](https://github.com/cfpdx-301d-spring-2017/lab-02-jquery-and-dom)
