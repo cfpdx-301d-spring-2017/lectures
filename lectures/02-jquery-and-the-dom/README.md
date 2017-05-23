@@ -55,7 +55,7 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| <ul><li>Wrote our scripts with vanilla JavaScript</li><li>Retreived elements from the DOM using the document object's methods</li><li>Maniuplated the DOM using the document object's methods</li></ul> | <ul><li>Write JavaScript with the help of the jQuery library</li><li>Retrieve elements from the DOM using jQuery</li><li>Manipulate the DOM using jQuery</li></ul> |
+| <ul><li>Wrote our scripts with vanilla JavaScript</li><li>Retrieved elements from the DOM using the document object's methods</li><li>Manipulated the DOM using the document object's methods</li></ul> | <ul><li>Write JavaScript with the help of the jQuery library</li><li>Retrieve elements from the DOM using jQuery methods</li><li>Manipulate the DOM using jQuery methods</li></ul> |
 
 <hr></hr>
 
