@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Class 5: Form-Building Workshop
+lass 5: Form-Building Workshop
 =======
 ## Overview
 <!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
@@ -45,14 +45,8 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
-* Recap the primary concepts discussed throughout the week.
-    * Ask the students "What have you learned so far?"
-    * Ask "What has been challenging?"
-    * Ask "What has been helpful?"
-* Work through a form-based exercise to build out a JSON string.
-* Discuss 3rd party library integration for dynamic code highlighting and markdown creation.
-
+* Build a JSON string using data given by a user. 
+* Integrate 3rd party libraries for dynamic code highlighting and markdown.
 
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
@@ -82,4 +76,4 @@
 None for today!
 
 ## Lab
-[Lab 5: Form-Building Workshop]()
+[Lab 5: Form-Building Workshop](https://github.com/cfpdx-301d-spring-2017/lab-05-form-building)
