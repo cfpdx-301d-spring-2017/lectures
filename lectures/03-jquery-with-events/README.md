@@ -12,7 +12,7 @@
 
 
 ## **Week 1: The View**
-# Class X: TOPIC
+# Class 3: jQuery and Events 
 
 [Schedule](#schedule) | [Announcements](#announcements) </br>
 [Objectives](#learning-objectives) | [Yesterday vs Today](#yesterday-vs-today) </br>
@@ -34,21 +34,19 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
-
-* Execute event bindings with jQuery’s `$.on()` method
-- Deter students from using the event method and to bind the event using `$.on()`
-* Comprehend when event delegation is appropriate.
-* Be able to configure event bindings using delegation.
-* Familiarity with `data-`attributes & concatenation.
-* Build dynamic jQuery selector strings.
-* Use of `$(document).ready()`
+* Create event listeners using jQuery's `$.on()`
+* Distinguish when to use event delegation.
+* Select and target HTML elements using the `data` attribute.
+* Run our scripts when the DOM is ready using `$(document).ready()`
 
 
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| <ul><li> used jQuery's data method to add data to elements.</li><li> used the DOM's addEventListener method to listen bind event handlers.</li><li> ran our scripts as soon as they loaded.</li></ul> | <ul><li> use jQuery's data method to update an element's data attributes. </li><li> use jQuery's on method to bind event handlers. </li><li> run our scrips when the document is ready. </li></ul> |
+
+
+
 
 <hr></hr>
 
@@ -79,7 +77,7 @@
   * Demonstrate event based concepts and code examples
       * These can be found on page 246 of the Duckett textbook.
   * Heavily demonstrate the use of the jQuery `$.data()` method
-      * This should include getting data and setting data, and the differing formates of jQuery getters/setters
+      * This should include getting data and setting data, and the differing format of jQuery getters/setters
   * Demo - How
       * Demo hand-rolled page tabs
           * Include the new script file.
@@ -95,5 +93,4 @@
 
 
 ## Lab
-<!-- Provide a link to the daily lab README in the Labs directory, and review this document as part of the lecture -->
-[Lab 3: jQuery and events](../../labs/03-jQuery-and-events/README.md)
+[Lab 3: jQuery and events](https://github.com/cfpdx-301d-spring-2017/lab-03-jquery-events)
