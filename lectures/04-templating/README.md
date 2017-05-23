@@ -43,19 +43,19 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
-
-* Identify different approaches to reusable HTML templates
-* Effectively use templates to present user-entered (or server-provided) data (methods on the Handlebars object).
+* Discuss different ways to reuse HTML, specifically using templates.
+* Display data using a Handlebars template.
 * Distinguish between the different Handlebars expression types ( **{{}}** vs **{{{}}}** ).
-* Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**, etc)
-
+* Add personality to a website by styling the typography.
+* Interpolate a variable into a string using ES2015 template literals.
 
 
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| <ul><li> Created an HTML element to use as a template. </li><li> Used jQuery to clone our template and create new elements</li><li> Used string concatenation to concatenate a variable to a string. </li></ul> | <ul><li> Use Handlebars.js to compile our template. </li><li> Use ES2015 template literals to interpolate a variable to a string.  </li></ul> |
+
+
 
 <hr></hr>
 
@@ -98,5 +98,5 @@
 * [Learn Handlebars.js in 10 Minutes tutorial](http://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes/) (Essential)
 
 ## Lab
-[4: Templating]()
+[4: Templating](https://github.com/cfpdx-301d-spring-2017/lab-04-templating)
 
