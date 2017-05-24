@@ -27,9 +27,8 @@ Any slides used during class will be sent out via Ryver after class. Lecture out
 
 Lab-time code assignments follow each class time. Find these assignments in the repos of each class folder. Generally, you'll have a "pair" assignment that you'll work on with a classmate, and an individual "sandbox" assignment in which you'll build up your own online portfolio. Useful for your coming career change!
 
-Instructions for completing and submitting the assignments can be found in their README files.
-
-Assignments are submitted using a professional-grade git-flow aka lots and lots of PR's!
+- Instructions for completing assignments can be found in their README files. 
+- Assignments will be submitted using a professional-grade [git-flow](GIT_FLOW.md) aka lots and lots of PR's.
 
 # Required Computer Setup
 
