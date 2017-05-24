@@ -1,6 +1,5 @@
 =======
 ## Overview
-<!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
 
 - Students typically have little to no jQuery experience coming into the 301 course, and this is by design. In Code 201, students are taught to manage DOM behaviors through vanilla JavaScript methods on the **document** object.
 
