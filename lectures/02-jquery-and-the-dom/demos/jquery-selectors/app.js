@@ -36,9 +36,11 @@ $('li[data-category="' + category + '"]');
 //*****selector methods*****//
 
 //TODO get the parent element of the <li>s
+$( 'li' ).parent()
 
 //TODO get the input box only from the first form-element
-
+$( '.form-element' ).first().find( 'input' )
+$( '.form-element:first-of-type input' )
 
 
 
@@ -62,5 +64,7 @@ $('li').attr('data-category', 'new-value');
 //*****creating and deleting elements*****//
 
 //TODO make a new <li> and append it to the <ul>
+$( '#beautiful-list' ).append( $( '.li-template' ).clone().text( 'add more' ).removeClass( 'li-template' ) )
 
 //TODO remove an element from the DOM
+$( '#beautiful-list' ).remove()

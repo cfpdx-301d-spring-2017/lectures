@@ -36,4 +36,8 @@ Read through the [301 prework](https://github.com/codefellowspdx/code-301-prewor
 
 # Weekly Pair Programming Partners
 
-** TBD ** 
+Week    | Pair One    | Pair Two         | Pair Three   | Pair Four
+--------|-------------|------------------|--------------|-----------
+Week 1  | Joe/Haley  | Michele/Mark | Meryl/Anwar | Stephanie/Andrew/John
+Week 2  | Haley/John | Andrew/Michele | Stephanie/Meryl | Joe/Anwar/Mark
+Week 3  | Joe/John | Andrew/Mark | Anwar/Stephanie | Haley/Meryl/Michele
