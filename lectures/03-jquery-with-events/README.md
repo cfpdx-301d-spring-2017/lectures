@@ -17,8 +17,9 @@
 ### Announcements
 * Note: Portfolio assignments are due two days after being assigned.
 * Extra credit options are available every day and can be turned in whenever!
-* **Learning Journal Due Today**
-* Choose your own adventure: Meetup, technical blog post, Code Wars
+* [Non-coding / professional development assignments!](../../PROFESSIONAL.md)
+    * **Learning Journal Due Today**
+    * Choose your own adventure: Meetup, technical blog post, Code Wars
 * Questions?
 
 <hr></hr>
