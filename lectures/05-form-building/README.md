@@ -39,7 +39,7 @@ lass 5: Form-Building Workshop
 1. Lab Prep
 
 ### Announcements
-* 
+* **Due Sunday:** Quiz!
 * Questions? Resources to share?
 
 <hr></hr>
@@ -51,7 +51,7 @@ lass 5: Form-Building Workshop
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Used vanilla JavaScript to handle data from forms. | Use jQuery to handle data from froms. |
 
 <hr></hr>
 
