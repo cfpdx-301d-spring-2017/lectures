@@ -17,6 +17,7 @@
 
 ### Announcements
 * **DUE** Professional development update for week 1.
+* [Dan's debugging tips!](https://github.com/codefellowspdx/201d-spring-2017/blob/7b349d6bb2b5f96b66198395ff6231c5abf70ad1/class-10-js_debugging-wireframe_part_2/dan-debugging.md#debugging-workflow)
 * Questions? 
 
 <hr></hr>
