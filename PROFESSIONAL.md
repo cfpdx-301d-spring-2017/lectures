@@ -1,7 +1,7 @@
 # Bonus Content: Learning Journals & Growing your professional network
 
-1. [Learning Journals](#Learning-Journals)
-2. [Growing your professional presence (Choose your own adventure)](#Professional-Presence)
+1. [Learning Journals](#learning-journals)
+2. [Growing your professional presence (Choose your own adventure)](#professional-presence)
     - Technical Writing
     - Code Wars
     - Meetups
@@ -59,7 +59,7 @@ Doing code challenges offers you extra practice as well as helps you build criti
 
 
 ### Option 3: Attend a Meetup
-Attend at least one Meetup in person. Resources for finding meetups include: [meetup.com](https://www.meetup.com/) and calagator.org(http://calagator.org/)
+Attend at least one Meetup in person. Resources for finding meetups include: [meetup.com](https://www.meetup.com/) and [calagator.org](http://calagator.org/)
 
 | Week | Expectation |
 | ---- | ----------- |
