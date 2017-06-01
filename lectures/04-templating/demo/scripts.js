@@ -7,19 +7,24 @@ function Pet ( petData ) {
 }
 
 Pet.prototype.toHtml = function () {
-    var $petInfo = $( 'article.template' ).clone().removeClass( 'template' );
+    // console.log( 'we are giving Handlebars.compile:', $( '#pet-template' ).html() );
+    var templateFiller = Handlebars.compile( $( '#pet-template' ).html() );
+    // console.log( 'Handlebars.compile gives us a function:', template );
+    
+    this.face = "cute";
+    var filledTemplate = templateFiller( this );
+    // console.log( 'template returns: ', filledTemplate );
 
-    $petInfo.find( 'h2' ).text( 'My name is ' + this.name );
-    $petInfo.find( 'h3' ).text( 'Don\'t you want to adopt a ' + this.type + '!!?!' );
-    $petInfo.find( 'p' ).text( this.description );
-
-    return $petInfo;
+    return filledTemplate;
 }
 
+// loops through array of pet DATA and creates pet OBJECTS
 petObjects.forEach( pet => {
     pets.push( new Pet( pet ) );
 });
 
+// loops through array of pet OBJECTS and runs .toHTML()
 pets.forEach( pet => {
+
     $( '#pets' ).append( pet.toHtml() );
 });
