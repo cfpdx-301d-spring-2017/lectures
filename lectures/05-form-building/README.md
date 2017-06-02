@@ -14,6 +14,7 @@
 1. Form Building - Follow Along!
 
 ### Announcements
+* **Due tomorrow am:** learning journal!
 * **Due Sunday:** Quiz!
 * Questions? Resources to share?
 
