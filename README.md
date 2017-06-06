@@ -33,11 +33,3 @@ Lab-time code assignments follow each class time. Find these assignments in the 
 # Required Computer Setup
 
 Read through the [301 prework](https://github.com/codefellowspdx/code-301-prework) to make sure you have everything you need installed.    
-
-# Weekly Pair Programming Partners
-
-Week    | Pair One    | Pair Two         | Pair Three   | Pair Four
---------|-------------|------------------|--------------|-----------
-Week 1  | Joe/Haley  | Michele/Mark | Meryl/Anwar | Stephanie/Andrew/John
-Week 2  | Haley/John | Andrew/Michele | Stephanie/Meryl | Joe/Anwar/Mark
-Week 3  | Joe/John | Andrew/Mark | Anwar/Stephanie | Haley/Meryl/Michele
