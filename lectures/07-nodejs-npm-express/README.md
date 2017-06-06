@@ -39,7 +39,6 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 * Understand client-server architecture
 * Review the differences between the Browser Runtime env and Node's Runtime env
 * Usage and best practices when implementing a NodeJS project using NPM packages and package.json configs
@@ -49,7 +48,7 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Used live-server to serve our website. | Write our own server using Node and Express. |
 
 <hr></hr>
 
