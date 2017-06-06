@@ -16,6 +16,7 @@
 1. Lab Prep
 
 ### Announcements
+* Continuing one on ones
 * Questions? Resources to share?
 
 <hr></hr>
