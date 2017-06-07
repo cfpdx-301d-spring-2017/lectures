@@ -21,7 +21,9 @@
     * Biggest hurdle across the board = portfolio. Do y'all want a catch up day? Discuss.
     * Feedback on the follow along form building ~ go slower, alternate writing and following.
     * Workload === a lot! Especially compared to 201.
-    * What's due for the portfolio? [Tomorrow](https://github.com/cfpdx-301d-spring-2017/lab-07-node-npm-express/blob/master/PORTFOLIO-ASSIGNMENT.md)
+    * What's due for the portfolio? 
+        * [Tomorrow](https://github.com/cfpdx-301d-spring-2017/lab-07-node-npm-express/blob/master/PORTFOLIO-ASSIGNMENT.md)
+        * Next due date = Monday. Pair programming on Thursday
 * Questions? Resources to share?
 
 <hr></hr>
