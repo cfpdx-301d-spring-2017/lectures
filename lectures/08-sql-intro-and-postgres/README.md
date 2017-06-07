@@ -1,29 +1,3 @@
-=======
-## Overview
-<!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
-
-- The primary focus of this class should be the syntax of SQL and how to interact (using CRUD operations) with a database persistence layer in the browser.
-
-- Here we go... full-stack "there and back again": from the browser to the server to the Postgres database and back through the server to the browser.
-
-- The goal of the day is just to get students to understand it as much as possible, since this is their first real exposure to the entirety of the process, both conceptually and in practice with running multiple simultaneous processes on their laptops.
-
-- The lab for today has them making comments in existing code rather than writing code. This is also when they need to get a familiarity with the basics of the SQL shell.
-
-- There is also the matter of getting Postgres set up and working across a variety of operating systems and possible versions of those OSes. Problems always comes up: that's the nature of these installations and as we know, just part of the Dev Life.
-
-- Keep in mind that you can refer back to the pre-work repo for a refresher on the instructions that students are given for setup.
-
-- Do not get bogged down in examining the database loader functions at the bottom of the provided server.js, but do ensure that students have looked at it and have a basic understanding of how it works.
-
-## Resources / Slides
-<!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
-
-[SQL slides](https://www.icloud.com/keynote/000U7LKI_iSrfJAuo73LsA-Hw#Code_301_-_Class_8_Slides)
-
----
-
-
 ## **Week 2: The Model**
 # Class 8: SQL & Postgres
 
@@ -37,18 +11,22 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. CRUD and SQL
 1. Lab Prep
 
 ### Announcements
-* 
+* **DUE TMRW AM:** learning journal
+* **FEEDBACK!**
+    * Thanks for your feedback and thoughts! 
+    * Biggest hurdle across the board = portfolio. Do y'all want a catch up day? Discuss.
+    * Feedback on the follow along form building ~ go slower, alternate writing and following.
+    * Workload === a lot! Especially compared to 201.
+    * What's due for the portfolio? [Tomorrow](https://github.com/cfpdx-301d-spring-2017/lab-07-node-npm-express/blob/master/PORTFOLIO-ASSIGNMENT.md)
 * Questions? Resources to share?
 
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 * Understand the basic concepts of databases
 * Effectively use basic SQL commands to create, read, update, and delete rows from a table
 * Understand the fundamental architecture of full-stack applications and how we can locally emulate them
@@ -56,20 +34,16 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Had locally persistent data in LocalStorage. | Have persistent data using a PostgreSQL database. |
 
 <hr></hr>
 
 ## Notes
-* Topic 1 - CRUD
-    * CRUD - Databases as a resource
-        * C - CREATE
-        * R - READ
-        * U - UPDATE
-        * D - DESTROY (or DELETE)
+* Topic 1 - CRUD and SQL
     * Relational Databases
         * Discuss differences between document based storage
         * Discuss common DBMS - MySQL, PostgreSQL, SQLite, etc
+            * [Article comparing the three](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
         * Discuss concepts of relational data
     * SQL
         * Syntax
@@ -79,35 +53,17 @@
         * Expressions
         * Predicates
         * [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+    * CRUD - Databases as a resource
+        * C - CREATE
+        * R - READ
+        * U - UPDATE
+        * D - DESTROY (or DELETE)
     * Data types
         * **INTEGER**
         * **NOT NULL**
         * **PRIMARY KEY**
         * **CHAR**
         * **VARCHAR**
-    * WebSQL
-        * Discuss importance of using this for exposure and teaching concepts, not for large scale application development
-        * Discuss the webDB abstraction layer
-            1. **webDB.execute** method
-                * Discuss different options
-                * Discuss dynamic value based data injection to avoid SQL injection
-            1. webDB.init method
-                * Discuss how it connects to the database
-        * Discuss
-    * Demo - How
-        * Demo SQL interaction in Chrome Dev Tools
-            1. Initialize a connection to the database
-            1. Create a test table
-            1. Use SQL to interact with the database in the Chrome database console
-            1. Insert records from sample database
-            1. Delete records from sample database
-            1. Update records from sample database
-            1. Demonstrate how to drop a table
-            1. Use different clauses to demonstrate SQL syntax
-            1. Discuss importance of using a library or abstraction layer to communicate with the database through the use of JavaScript
-        * Exposure to formation of more advanced SQL queries.
-        * Knowledge of how to interact with WebSQL in the browser.
-        * Ability to interact with Web SQL using JavaScript
 
 
 ## Readings
@@ -116,5 +72,4 @@
 * [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
 
 ## Lab
-<!-- Provide a link to the daily lab README in the Labs directory, and review this document as part of the lecture -->
-[Lab 8: SQL & Postgres]()
+[Lab 8: SQL & Postgres](https://github.com/cfpdx-301d-spring-2017/08-sql-intro-and-postgres)
