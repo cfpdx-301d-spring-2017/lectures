@@ -20,7 +20,7 @@ console.log( meals );
 /*                      .map */
 const desserts = meals.map( meal => meal.dessert );
 
-console.log( '---------------- desserts collected from map ------------------------');
+// console.log( '---------------- desserts collected from map ------------------------');
 console.log( desserts );
 console.log( meals );
 
@@ -35,16 +35,14 @@ console.log( meals );
 
 /*                      .reduce */
 // `.reduce()` => returns a new value; defaulting to integer values, but can also be a new array of values
-const arr = [34, 55, 3, 23, 12, 7, 99]
+const arr = [34, 55, 3, 23, 12, 7, 99];
 
-let sumArray = arr.reduce( ( acc, current ) => acc + current );
+let sumArray = arr.reduce( ( acc, next ) => acc + next );
+let sumArrayPlusOne = arr.reduce( (acc, next) => acc + next, 1 );
+
+console.log('---------------- sumArray and sumArryPlusOne ------------------------');
 console.log( sumArray ); // => returns the total sum of the array, 233 (default accumulator is `0`)
-
-let sumArrayPlusOne = arr.reduce( (acc, current) => acc + current, 1 );
 console.log( sumArrayPlusOne ); // => returns the total sum of the array from the starting value, 234 (accumulator is `1`)
-
-
-
 
 
 
