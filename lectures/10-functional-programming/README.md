@@ -1,24 +1,3 @@
-## Overview
-<!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
-
-- The focus of this class should be on teaching students basic functional programming concepts, through the use of the following array methods: `.forEach()`, `.map()`, `.filter()`, and `.reduce()`.
-
-- Students will work with these methods to filter data from their locally sourced JSON file. The goal is to help students understand the concepts of declarative and imperative coding styles, along with understanding concepts such as: higher order functions, immutability, and idempotence.
-
-- Besides the paradigm shift into FP, there is a new piece of ES2015 content: arrow functions. Care must be taken to ensure that the students do not get these two different things confused at all.
-
-- It is recommended that the students write their code and get it working with the "traditional" function syntax, and the refactor piece-by-piece to arrow functions where appropriate. There are also arrow functions sprinkled through the starter code beginning with today's lab that students can look at as a reference.
-
-- The lab is mainly focused on a new admin.html page that displays statistics about the blog (such as word count) that are computed using `.map()` and `.reduce()`. There is also a TODO to create a new Handlebars template for that page, too.*
-
-## Resources / Slides
-<!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
-
-[Functional Programming slides](https://www.icloud.com/keynote/0008gukr3pj2ZZ7pGb1bZudeQ#Code_301_-_Class_7)
-
----
-
-
 ## **Week 2: The Model**
 # Class 10: Functional Programming
 
@@ -32,27 +11,30 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. Functional Programming
 1. Lab Prep
 
 ### Announcements
-* 
+* **DUE TMRW** learning journal!
+* **DUE MONDAY** 
+    - quiz #2
+    - portfolio pair assignment from yesterday
+        - how is everyone feeling progress-wise? possible to catch up over the weekend?
+* **SUNDAY!** 301 night class' project presentations @ 1pm
 * Questions? Resources to share?
 
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 * Understand advantages of functional programming and reasons for its recent rise in popularity
 * Correctly use **.forEach(), .map(), .filter(), .reduce()** methods to explore and modify a data set
 * Construct modularity with IIFE patterns
 
-
+<!--
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| | |-->
 
 <hr></hr>
 
@@ -90,5 +72,4 @@
 * [Eloquent JavaScript, Ch.5 Higher Order Function*s](http://eloquentjavascript.net/05_higher_order.html) (Essential)
 
 ## Lab
-<!-- Provide a link to the daily lab README in the Labs directory, and review this document as part of the lecture -->
-[Lab 10: Functional Programming](../../labs/10-functional-programming/README.md)
+[Lab 10: Functional Programming](https://github.com/cfpdx-301d-spring-2017/10-functional-programming)
