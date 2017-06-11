@@ -31,8 +31,7 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. Client side routing
 1. Lab Prep
 
 ### Announcements
@@ -48,25 +47,21 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Used jQuery event handlers to simulate page changes. | Use Page.js to add routes to change pages. |
 
 <hr></hr>
 
-Topic 1 - Review
-    * Pair assignment Retrospective
-        * What went well?
-        * What was challenging?
 * Topic 2 - Routing and Controllers
     * Single-Page Apps
         * Review: Why single page?
             * Performance trade-offs
-            * User experience
+            * User experience   
         * jQuery’s role so far
             * Event handling for our tabs
             * Will still be hiding and showing content
         * Benefits of adding a ‘route’ to our page
             * Lets user (and browser) believe they are navigating
-            100. Updates History API to allow for ‘forward’ and ‘back’ actions
+            * Updates History API to allow for ‘forward’ and ‘back’ actions 
     * Demo - How
         * Showcase the History API in the console
             * history is just an object
