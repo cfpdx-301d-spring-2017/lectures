@@ -3,3 +3,5 @@ README_TEMPLATE.md
 .vscode
 
 pairs/
+
+*.env
