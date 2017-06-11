@@ -38,8 +38,8 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. REST
+1. API's
 1. Lab Prep
 
 ### Announcements
@@ -49,7 +49,6 @@
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 * Understand the history of HTTP, and the central role that REST plays.
 * Use RESTful routes for a web service, to retrieve their own github repos
 * Design RESTful endpoints for their own blogging app
@@ -102,4 +101,4 @@ Topic 1 - REST & APIs
 
 
 ## Lab
-[Lab 12: RESTful endpoints and External APIs]()
+[Lab 12: RESTful endpoints and External APIs](https://github.com/cfpdx-301d-spring-2017/12-rest-and-github-api)
