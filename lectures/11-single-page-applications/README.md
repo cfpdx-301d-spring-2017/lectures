@@ -26,6 +26,7 @@
         * Your web site's state must persist between page reloads.
         * Your web site must be deployed live on the Internet.
         * Your web site must make a call to a third party API.
+    * [Night 301's Project](https://github.com/christylaguardia/garage-fellows)
 * Questions? Resources to share?
 
 <hr></hr>

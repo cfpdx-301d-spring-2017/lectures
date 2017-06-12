@@ -5,6 +5,7 @@ var app = app || {};
   const homeController = {};
   
   homeController.init = function () {
+    console.log ('in home controller');
       app.homeView.init();
       $( 'main > section' ).hide();
       $( '#home' ).show(); 
