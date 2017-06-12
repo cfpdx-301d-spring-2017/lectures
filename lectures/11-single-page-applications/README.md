@@ -16,6 +16,16 @@
 ### Announcements
 * ONE WEEK TIL PROJECT WEEK!!!!!
     * What you need to know!
+    * We'll assign groups Thursday so you can start talking about ideas.
+    * Friday morning = review of topics; Friday afternoon = finalizing your idea, testing API's, etc.
+    * ** Your project proposal is due at noon on Monday **
+    * Basic needs:
+        * Each person must make meaningful contributions in HTML, CSS, and JavaScript.
+        * Your web site must have at least 3 interlinked pages and clear navigation.
+        * Your web site must have at least 2 pages that accept and process user input.
+        * Your web site's state must persist between page reloads.
+        * Your web site must be deployed live on the Internet.
+        * Your web site must make a call to a third party API.
 * Questions? Resources to share?
 
 <hr></hr>
