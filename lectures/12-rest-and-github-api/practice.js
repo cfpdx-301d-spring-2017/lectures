@@ -9,19 +9,17 @@ const petOwners = [
 ];
 
 // TODO chain methods as needed to create an array of pet objects
-const allPets = petOwners.map( owner => owner.pets ).reduce( (acc, curr) => acc.concat( curr ) );
+const allPets = petOwners.someMethodHere();
 console.log( 'allPets test passes: ', answers.compareArrs( allPets, answers['allPets'] ) );
 
 // TODO write a function that will return an array of petOwners with three pets
-const hasThreePets = petOwners.filter( owner => owner.pets.length === 3 );
+const hasThreePets = petOwners.someMethodHere();
 console.log( 'hasThreePets test passes:', answers.compareArrs( hasThreePets, answers['hasThreePets'] ) );
 
 // TODO chain a .map and a .reduce to total the number of pets
-const totalPets = petOwners.map( owner => owner.pets.length ).reduce( (acc, curr) => acc + curr );
+const totalPets = petOwners.map().someMethodHere();
 console.log( 'totalPets test passes:', totalPets === answers['totalPets']);
 
 // TODO chain methods to calculate how many dogs there are total
-const totalDogs = petOwners.map( owner => {
-        return owner.pets.filter( pet => pet.animal === 'dog' ).length;
-    }).reduce( (acc, curr) => acc + curr ); 
+const totalDogs = petOwners.map().someMethodHere();
 console.log( 'totalDogs test passes:', totalDogs === answers['totalDogs']);
