@@ -36,6 +36,7 @@
 ## Notes
 
 Topic 1 - REST & APIs
+
     * REST
         * Constraints - what makes something RESTful?
             * client - server relationship
@@ -43,6 +44,7 @@ Topic 1 - REST & APIs
             * uses HTTP methods
             * URLs are easy to understand
             * Data is sent as JSON or XML
+            
     * API's
         * What is an API?
         * What is a RESTful API?
