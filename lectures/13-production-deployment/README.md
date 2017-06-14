@@ -11,8 +11,7 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. Deploying to Production environment
 1. Lab Prep
 
 ### Announcements
@@ -124,4 +123,4 @@
 
 
 ## Lab
-[Lab 13: Production & Deployment]()
+[Lab 13: Production & Deployment](https://github.com/cfpdx-301d-spring-2017/13-production-deployment)
