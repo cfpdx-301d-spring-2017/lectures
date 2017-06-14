@@ -30,7 +30,7 @@
         * Your web site must be deployed live on the Internet.
         * Your web site must use a third party API.
     * Examples
-        * [Garage Fellows](garagefellows.herokuapp.com) && [code](https://github.com/christylaguardia/garage-fellows)
+        * [Garage Fellows](http://garagefellows.herokuapp.com) && [code](https://github.com/christylaguardia/garage-fellows)
         * [Social Parks](http://socialparks.herokuapp.com) && [code](https://github.com/hpats67/socialparks) 
         * [Transplantr](http://transplantr.herokuapp.com) && [code](https://github.com/GloriaAnholt/Transplantr)
     * APIS for inspiration
