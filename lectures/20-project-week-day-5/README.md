@@ -1,17 +1,11 @@
 # Class 20 -  Project Week: Milestone 5
 
-***Presentation day! This is the day to celebrate student success and be the cheerleader during presentation time. Be sure to keep an eye on time during presentations and time box teams appropriately. It may be a good idea to use a timer to keep presentation lengths down to reasonable durations, and to warn them when they need to wrap up, in order to finish within their allotted time. Generally speaking, project presentations should take no more than 15-20 minutes, including questions. This can be adjusted based on time constraints or class size, especially if other classes are presenting in the same space.***
-
 ## Presentation Day
 
 * Be mindful of the presentation schedule, when your team presents, and go see as many other presentations as you can if there are other classes presenting that day.
-
-* Your presentations should take approximately **15 minutes**. 
-
+* Your presentations should take approximately **15 minutes**.
 * Have one team member track time, and help keep things moving forward.
-
-* Expect and be ready to answer questions at the end of your presentation. 
-
+* Expect and be ready to answer questions at the end of your presentation.
 * Have fun!!
 
 * Please submit all Canvas assignments by their deadlines.
@@ -46,7 +40,7 @@ Your grade is based on your individual effort and your project's technical merit
     * Has at least 3 interlinked "pages" with a clear navigation
     * Has at least two pages that accept and process user input
     * State is persisted between page reloads
-    * Deployed live on the Internet with a meaningfully-named URL, either through a custom-named Heroku (or similar service) application or, ideally, through purchasing and connecting a domain (as of April 2017, Namecheap.com offers a wide variety of domain names for $0.88).
+    * Deployed live on the Internet with a meaningfully-named URL, either through a custom-named Heroku (or similar service) application or through purchasing and connecting a domain
 
 ## Congratulations!
 Thanks for all your hard work through this course! We can't wait to see where you go with your new super powers. :)
