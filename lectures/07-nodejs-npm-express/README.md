@@ -1,20 +1,3 @@
-## Overview
-<!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
-
-- Things are starting to change in a big way as we start looking at how server-side code works. The core lab task today is to build out a server.js file using Express that will replace the functionality students have been getting from live-server up to this point.
-
-- It's a simple file of maybe 10-12 lines that is best built out in class... s l o w l y... explaining every single piece of how Node and NPM work.
-
-- There is also an structural change to the lab: now that we are using a Node server.js file, all of the client-side code has been moved into a public/ directory.
-
-- Note that the completion of the lab will also create a package.json file and a node_modules/ directory in the starter code, which are `.gitignored`, so today is the time to talk about that as well. The lab TODOs all involve the NPM setup process and code to write in the server.js file.
-
-- Once this lab is completed, students will be able to hit a "Submit" button on the new article form and see the JSON for the article logged into the Node console via a POST route in the server. After today, submitted articles will be stored in the Postgres database.
-
-[Starter code repository for class demo](https://github.com/codefellows/301-7-express-demo)
----
-
-
 ## **Week 2: The Model**
 # Class 7: NodeJS & NPM
 
@@ -28,18 +11,17 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. Let and Const
+1. Node and friends
 1. Lab Prep
 
 ### Announcements
-* 
+* Continuing one on ones
 * Questions? Resources to share?
 
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 * Understand client-server architecture
 * Review the differences between the Browser Runtime env and Node's Runtime env
 * Usage and best practices when implementing a NodeJS project using NPM packages and package.json configs
@@ -49,7 +31,7 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Used live-server to serve our website. | Write our own server using Node and Express. |
 
 <hr></hr>
 
@@ -91,4 +73,4 @@
 - [The Node Beginner Book](http://www.nodebeginner.org/)
 
 ## Lab
-[Lab 7: NodeJS & NPM]()
+[Lab 7: NodeJS & NPM](https://github.com/cfpdx-301d-spring-2017/lab-07-node-npm-express)
