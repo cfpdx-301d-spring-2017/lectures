@@ -18,7 +18,7 @@
 * GRADES!!!! Goose eggs everywhere. 
     * Play catch up til Monday morning. 
     * No lab or portfolio work during project week.
-    * You have until Friday 7/30 to submit late grades!
+    * You have until Friday 6/30 to submit late grades!
 * **FINAL PROJECT DETAILS**
     * **Your project proposal is due at noon on Monday**
     * **Teams will be given out tomorrow.**
