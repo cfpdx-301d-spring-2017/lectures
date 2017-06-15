@@ -19,33 +19,6 @@ Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.co
 
 ---
 
-## Learning Objectives
-<!--
-ABCD:
-  Audience: Program participants
-  Behavior: Expected learning/behavior changes/results
-  Condition:
-    Circumstances that lead to change/result
-    When change/result are expected to occur
-  Degree: How much change occurs (%) for how many participants (#)
--->
-There are no new learning objectives for this day, since it is primarily a review/transition day.
-
----
-
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-There are no new reading assignments for this day, since it is primarily a review/transition day.
-
----
-
-## Resources / Slides
-<!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
-There are no additional resources for this day, since it is primarily a review/transition day.
-
-## Lecture <Topic>
-<!-- List any high level topics, as well as any sub-topic, and associated details or notes that instructors may require to deliver this content -->
-
 **Review of the course**
 
 - Weekly concepts and daily topics
@@ -68,8 +41,6 @@ There are no additional resources for this day, since it is primarily a review/t
 - Day [19](../19-project-week-day-4/README.md): Stretch goals, refinements
 - Day [20](../19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
 - Do not forget the associated Canvas assignments! One is a group submission and the other is an individual submission!
-
-`BREAK (10 minutes)`
 
 **Additional topics related to final projects**
 
