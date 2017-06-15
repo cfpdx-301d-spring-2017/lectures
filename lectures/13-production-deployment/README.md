@@ -1,21 +1,3 @@
-=======
-## Overview
-<!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
-- The focus of this class is on students understanding the concept of production deployments in conjunction with development and production environments. Through the use of Heroku, you will guide students through the deployment process, configuration of environment variables, and general issues that can arise during the deployment phase of a project. Students should also understand development, production, and feature branches and how they are used in collaborative development.
-
-- Besides teaching the basics of using Heroku (both CLI and GUI approaches, plus wiring up Heroku to track a GitHub repo, etc.), there's the matter of handling the token. That means modifying the server functionality so that a proxy (`express-request-proxy`, a new NPM dependency) can access the token that is stored in an environment variable.
-
-- The need for and functionality of the proxy tends to befuddle students a bit, so be sure to leave time to discuss it in detail and leave room for questions. This is also a good day to fill in as much information on security as can fit, particularly basics of CORS and HTTPS.
-
-## Resources / Slides
-<!-- Provide any links to external slides or other resources that will support the delivery of content. These can also be student-facing docs! -->
-
-[Deployment slides](https://www.icloud.com/keynote/000Vu7MzlTOHCctaoklwoAezg#Code301%5FDay13)
-
-[Heroku slides](https://drive.google.com/file/d/0B1sa21PAeFm6OGZuakpzNVhhRkk/view)
----
-
-
 ## **Week 3: The Controller**
 # Class 13: Production & Deployment
 
@@ -29,18 +11,36 @@
 ## Schedule
 1. Objectives and Stand Up
 1. Code Review
-1. New Topic 1
-1. New Topic 2
+1. Deploying to Production environment
 1. Lab Prep
 
 ### Announcements
-* 
-* Questions? Resources to share?
+* GRADES!!!! Goose eggs everywhere. 
+    * Play catch up til Monday morning. 
+    * No lab or portfolio work during project week.
+    * You have until Friday 6/30 to submit late grades!
+* **FINAL PROJECT DETAILS**
+    * **Your project proposal is due at noon on Monday**
+    * **Teams will be given out tomorrow.**
+    * Basic needs:
+        * Each person must make meaningful contributions in HTML, CSS, and JavaScript.
+        * Your web site must have at least 3 interlinked pages and clear navigation.
+        * Your web site must have at least 2 pages that accept and process user input.
+        * Your web site's state must persist between page reloads.
+        * Your web site must be deployed live on the Internet.
+        * Your web site must use a third party API.
+    * Examples
+        * [Garage Fellows](http://garagefellows.herokuapp.com) && [code](https://github.com/christylaguardia/garage-fellows)
+        * [Social Parks](http://socialparks.herokuapp.com) && [code](https://github.com/hpats67/socialparks) 
+        * [Transplantr](http://transplantr.herokuapp.com) && [code](https://github.com/GloriaAnholt/Transplantr)
+    * APIS for inspiration
+        * [programmableweb.com directory](https://www.programmableweb.com/category/all/apis)
+
+* Questions?
 
 <hr></hr>
 
 ## Learning Objectives
-- (will be able to) __________ using _____________.
 - Be able to push a dev site to production, so the world can see it.
 - Understand the difference between a static page and a dynamically generated app page.
 
@@ -48,32 +48,35 @@
 ### Yesterday vs Today
 | Yesterday we... | Today we will... |
 | --------------- | ---------------- |
-| Created static webpages from scratch using HTML, JS, and CSS. | Jump into an existing code base of a static website blog. |
+| Deployed static websites using gh-pages. | Deploy our SPA using Heroku. |
+| Only had one environment: development. | Have two environments: development and production. |
+| Saved our sensitive githubToken as a JS variable. | Save our githubToken as an environment variable. |
 
 <hr></hr>
 
 ## Notes
 
 * Topic 1 - Environments
-
     * Dev vs Production environment
-
-    * What we look for in production env
-
     * What to do with the GitHub token?
-
     * How to deploy to Heroku (step by step)
-
     * Demo - How
-
         * Deployment-workshop directory
-
         * Walk through an application deployment
+        * [Adding a database](https://devcenter.heroku.com/articles/heroku-postgresql)
+            * create a database using the postgresql addon
+            * check your configs to see the database url
+            * restart your heroku instance
+            * ```
+                $ heroku addons:create heroku-postgresql:hobby-basic
+                $ heroku config
+                $ heroku ps:restart
+            ```
+
 
 ***Note: There are multiple ways to achieve similar tasks with Heroku. whether through the CLI (Command Line Interface, i.e., your terminal) or through the GUI (Graphic User Interface) provided by your account Dashboard on the Heroku site. We'll look at each, and students should be comfortable with both.***
 
 #### Terminal:
-
    1. **git clone** https://github.com/heroku/node-js-getting-started.git
    2. **cd node-js-getting-started**
    3. **git remote -v**** ** // origin should point to Heroku's GitHub repo
@@ -115,9 +118,9 @@
 
 ## Readings
 
-- [Heroku: Getting Started with Nod*e](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
-- [Deploying a Simple Blog to Herok*u](https://howtonode.org/deploy-blog-to-heroku)
+- [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
+- [Deploying a Simple Blog to Heroku](https://howtonode.org/deploy-blog-to-heroku)
 
 
 ## Lab
-[Lab 13: Production & Deployment]()
+[Lab 13: Production & Deployment](https://github.com/cfpdx-301d-spring-2017/13-production-deployment)

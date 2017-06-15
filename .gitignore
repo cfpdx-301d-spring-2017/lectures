@@ -1,2 +1,8 @@
 *node_modules/
 README_TEMPLATE.md
+.vscode
+
+pairs/
+
+*.env
+*githubToken.js
