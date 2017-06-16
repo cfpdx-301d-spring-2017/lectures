@@ -7,6 +7,7 @@ Class 15: Review
 - specific topics
 	- ES2015 features
 	- array methods
+	- APIs
 	- more?
 
 **Final projects: Let's go over the requirements!**
