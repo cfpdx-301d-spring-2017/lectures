@@ -1,5 +1,9 @@
 Class 15: Review
 
+**Announcements**
+	- Quiz **AND** test due Sunday!
+	- Get as much unfinished work in by Monday morning - only work on projects during project week!
+
 **Review of the course**
 
 - map of topics!
