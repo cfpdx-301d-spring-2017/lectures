@@ -20,7 +20,8 @@ userData.posts.forEach(function (whatever) {
 
 for ( var i = 0; i < summerWeatherConditions.length; i ++ ) {
     if ( uniqueWeatherConditions.indexOf( summerWeatherConditions[i] ) < 0 ) {
-        uniqueWeatherConditions.push( summerWeatherConditions );
+        uniqueWeatherConditions.push( summerWeatherConditions[i] );
+        weatherPhrases.push( 'I love when it\'s ' + summerWeatherConditions[i] + '!');
     }
 }
 
