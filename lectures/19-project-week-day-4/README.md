@@ -10,18 +10,20 @@ Overview
  * As your teams now have MVP in place and are focusing more on layout, design, and stretch goals today, take a few minutes at some point to go to the classroom and take a look at your app on the projector/screen setup. You'll be glad you did. It's often a moment of, "THAT'S not what we want it to look like!"
 
 2. Plan your presentation:
- * Decide who's machine will present the app on the projector, test it, and then test a second computer… just in case.
- * Who will give an intro, and tell us about the problem domain and your team's solution?
- * Who will talk about the functionality, and walk us through the app?
- * Explain the challenges that arose during project week and how your team overcame them.
- * Who will show us the code? (not required, but if so, only core functionality!)
+    * Please introduce yourself at the beginning of your presentation. A simple "Hi, I'm X" will do. Not everyone in the audience will know your name.
+    * Structure your presentation into two sections:
+        1. Demo your app (around 10 minutes)
+            * **Each person** on the team should demo and talk about one part of the app
+            * Show us what your app can do, don't tell us!
+        2. Talk about the tech (10-15 minutes)
+            * **Each person** on the team should have a specific topic to talk about. 
+            * You can talk about some CSS you wrote, or a function you're proud of, or a challenge you conquered.
+            * Do **not** wing this. Have something in mind before presenting and know what you want to say.
+            * Showing code is not mandatory, but if you do, don't walk us line by line. 
+    * Each team member needs to contribute and talk during each section. You all put a lot of hard into your project and now's the time to talk about what you did and what you learned.
 
 3. Rehearse your presentation:
- * Set a timer and take turns talking through your topics. 
-
-4. Every team member needs to speak!
- * Tell us about what you contributed to the project.
- * Tell us about at least one thing you found challenging, and one thing you really enjoyed working on.
+ * Set a timer and take turns talking through your topics.
 
 ## Class 19 Learning Objectives
  * Presentation prep
